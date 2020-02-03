@@ -1,0 +1,23 @@
+{
+  "name": "3d-object-modelling-ground-and-excited-states-of-an-ion",
+  "version": "1.0.0",
+  "description": "3D Object Modelling - Ground and Excited States of an Ion (Böhr's Atom Model - Hydrogen Atom)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenandrebarreiro/3d-object-modelling-ground-and-excited-states-of-an-ion.git"
+  },
+  "keywords": [],
+  "author": "Rúben André Barreiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubenandrebarreiro/3d-object-modelling-ground-and-excited-states-of-an-ion/issues"
+  },
+  "homepage": "https://github.com/rubenandrebarreiro/3d-object-modelling-ground-and-excited-states-of-an-ion#readme",
+  "dependencies": {
+    "three": "0.113.2"
+  }
+}
