@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/rubenandrebarreiro/3d-object-modelling-ground-and-excited-states-of-an-ion.git"
   },
-  "keywords": [],
+  "keywords": ["quantum", "computing", "information", "theory", "quantumcomputing", "quantuminformation", "quantumtheory", "3dprogramming", "3dmodelling", "3d", "programming", "modelling"],
   "author": "Rúben André Barreiro",
   "license": "MIT",
   "bugs": {
