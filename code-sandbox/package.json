@@ -2,7 +2,7 @@
   "name": "3d-object-modelling-ground-and-excited-states-of-an-ion",
   "version": "1.0.0",
   "description": "3D Object Modelling - Ground and Excited States of an Ion (Böhr's Atom Model - Hydrogen Atom)",
-  "main": "3d-object-modelling-ground-and-excited-states-of-an-ion.html",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
