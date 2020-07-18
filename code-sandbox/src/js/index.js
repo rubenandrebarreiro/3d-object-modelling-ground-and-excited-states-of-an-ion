@@ -176,7 +176,7 @@ function init() {
     reset_camera();
 
     // Starts the Camera in the Perspective's view
-    camera_perspective_view();
+    camera_top_view();
 
     // Starts the Trackball Controls
     start_trackball_controls();
